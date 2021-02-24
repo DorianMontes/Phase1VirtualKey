@@ -51,7 +51,7 @@ public class WelcomeScreenTwo implements Screen{
 	                        break;
 	                    case 3:
 	                    	//Search for a File
-	                    	System.out.println("Which File do you wish to search for?: \n");
+	                    	System.out.println("Which File do you wish to Delete?: \n");
 	            			Scanner ss = new Scanner(System.in);
 	            	        String  f =  ss.nextLine();
 	            	        
